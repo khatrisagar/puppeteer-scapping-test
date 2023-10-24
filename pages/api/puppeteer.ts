@@ -12,6 +12,9 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
     headless: "new", // Enable headless mode
     cacheDirectory: join(__dirname, "./.cache/puppeteer"),
+    downloadBaseUrl:
+      "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing",
+    downloadPath: join(__dirname, "./.cache/puppeteer"),
     // args: ["--no-sandbox", "--disable-setuid-sandbox"],
   } as CustomPuppeteerLaunchOptions);
 
