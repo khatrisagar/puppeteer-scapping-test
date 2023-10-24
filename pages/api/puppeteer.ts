@@ -1,6 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
-// import puppeteer, { PuppeteerLaunchOptions } from "puppeteer-core";
+// import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
+import puppeteer, { PuppeteerLaunchOptions } from "puppeteer-core";
 const { join } = require("path");
 import chrome from "chrome-aws-lambda";
 
@@ -12,9 +12,9 @@ interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
     headless: "new", // Enable headless mode
-    executablePath: await chrome.executablePath,
-    defaultViewport: chrome.defaultViewport,
-    args: chrome.args,
+    // executablePath: await chrome.executablePath,
+    // defaultViewport: chrome.defaultViewport,
+    // args: chrome.args,
     // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
   } as CustomPuppeteerLaunchOptions);
 
