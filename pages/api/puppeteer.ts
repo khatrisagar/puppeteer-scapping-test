@@ -1,8 +1,7 @@
 import { NextApiRequest, NextApiResponse } from "next";
-// import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
-import puppeteer, { PuppeteerLaunchOptions } from "puppeteer-core";
+import puppeteer, { executablePath, PuppeteerLaunchOptions } from "puppeteer";
 const { join } = require("path");
-import chrome from "chrome-aws-lambda";
+import chromium from "chrome-aws-lambda";
 
 /* eslint-disable */
 interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
@@ -11,11 +10,15 @@ interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
+    ignoreDefaultArgs: ["--disable-extensions"],
     headless: "new", // Enable headless mode
-    // executablePath: await chrome.executablePath,
-    // defaultViewport: chrome.defaultViewport,
-    // args: chrome.args,
-    // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
+    // // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
+    executablePath: executablePath(),
+
+    // args: chromium.args,
+    // defaultViewport: chromium.defaultViewport,
+    // executablePath: await chromium.executablePath,
+    // ignoreHTTPSErrors: true,
   } as CustomPuppeteerLaunchOptions);
 
   try {
