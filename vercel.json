@@ -6,7 +6,5 @@
     { "src": "/api/puppeteer", "dest": "/api/puppeteer.js" },
     { "src": "/(.*)", "dest": "/$1" }
   ],
-  "env": {
-    "AWS_LAMBDA_FUNCTION_NAME": "@vercel/node"
-  }
+  "env": {}
 }
