@@ -1,5 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
+// import puppeteer, { PuppeteerLaunchOptions } from "puppeteer-core";
 const { join } = require("path");
 import chromium from "@sparticuz/chromium";
 
@@ -10,14 +11,11 @@ interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
-    // headless: "new", // Enable headless mode
-    // // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
-    args: chromium.args,
-    defaultViewport: chromium.defaultViewport,
-    executablePath: await chromium.executablePath(),
-    headless: chromium.headless,
+    args: ["--no-sandbox"],
+    headless: "new", // Enable headless mode
+    cacheDirectory: join(__dirname, ".cache", "puppeteer"),
     ignoreHTTPSErrors: true,
-  });
+  } as CustomPuppeteerLaunchOptions);
 
   try {
     const page = await browser.newPage();
