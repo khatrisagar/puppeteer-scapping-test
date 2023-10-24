@@ -1,7 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
-
-const axios = require("axios");
-const cheerio = require("cheerio");
+import cheerio from "cheerio";
+import axios from "axios";
 /* eslint-disable */
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
