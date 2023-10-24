@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import puppeteer, { executablePath, PuppeteerLaunchOptions } from "puppeteer";
+import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
 const { join } = require("path");
 import chromium from "chrome-aws-lambda";
 
@@ -13,12 +13,11 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     ignoreDefaultArgs: ["--disable-extensions"],
     headless: "new", // Enable headless mode
     // // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
-    executablePath: executablePath(),
 
-    // args: chromium.args,
-    // defaultViewport: chromium.defaultViewport,
-    // executablePath: await chromium.executablePath,
-    // ignoreHTTPSErrors: true,
+    args: chromium.args,
+    defaultViewport: chromium.defaultViewport,
+    executablePath: await chromium.executablePath,
+    ignoreHTTPSErrors: true,
   } as CustomPuppeteerLaunchOptions);
 
   try {
