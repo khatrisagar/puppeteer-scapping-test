@@ -1,8 +1,8 @@
 {
   "version": 2,
   "functions": {
-    "pages/**/*.js": {
-      "maxDuration": 30
+    "pages/api/cheerio.js": {
+      "maxDuration": 3600
     }
   },
   "env": {}
