@@ -14,7 +14,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const currentPriceElement = $(".priceToPay span.a-price-whole");
     const originalPriceElement = $(".a-price.a-text-price span.a-offscreen");
     const ratingElement = $(
-      "#acrPopover .a-declarative .a-popover-trigger .a-size-base"
+      "#averageCustomerReviews #acrPopover .a-declarative .a-popover-trigger .a-size-base"
     );
     const outOfStockElement = $("#availability span");
 
