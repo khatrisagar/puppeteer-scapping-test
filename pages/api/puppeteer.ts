@@ -1,7 +1,7 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import puppeteer, { PuppeteerLaunchOptions } from "puppeteer";
 const { join } = require("path");
-import chromium from "chrome-aws-lambda";
+import chromium from "@sparticuz/chromium";
 
 /* eslint-disable */
 interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
@@ -10,15 +10,14 @@ interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
-    ignoreDefaultArgs: ["--disable-extensions"],
-    headless: "new", // Enable headless mode
+    // headless: "new", // Enable headless mode
     // // cacheDirectory: join(__dirname, ".cache", "puppeteer"),
-
     args: chromium.args,
     defaultViewport: chromium.defaultViewport,
-    executablePath: await chromium.executablePath,
+    executablePath: await chromium.executablePath(),
+    headless: chromium.headless,
     ignoreHTTPSErrors: true,
-  } as CustomPuppeteerLaunchOptions);
+  });
 
   try {
     const page = await browser.newPage();
