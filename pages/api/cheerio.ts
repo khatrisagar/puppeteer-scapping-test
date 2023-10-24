@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import cheerio from "cheerio";
+import cheerio, { Cheerio } from "cheerio";
 import axios from "axios";
 /* eslint-disable */
 export default async (req: NextApiRequest, res: NextApiResponse) => {
@@ -14,14 +14,16 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const currentPriceElement = $(".priceToPay span.a-price-whole");
     const originalPriceElement = $(".a-price.a-text-price span.a-offscreen");
     const ratingElement = $(
-      "#averageCustomerReviews #acrPopover .a-declarative .a-popover-trigger .a-size-base"
+      "#acrPopover .a-declarative .a-popover-trigger .a-color-base"
     );
     const outOfStockElement = $("#availability span");
 
     const productTitle = productTitleElement.text().trim();
     const currentPrice = currentPriceElement.text().trim();
     const originalPrice = originalPriceElement.text().trim();
-    const rating = ratingElement.text().trim();
+
+    console.log("ratingElement");
+    const rating = ratingElement.text().trim().split(" ")?.[0];
     const outOfStock =
       outOfStockElement.text().trim().toLowerCase() === "currently unavailable";
 
@@ -37,6 +39,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
     res.json(data);
   } catch (error) {
+    res.json({ error: (error as Error).message });
     console.error("Error fetching the web page:", error);
   }
 };
