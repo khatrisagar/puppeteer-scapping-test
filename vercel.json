@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "pages/api/cheerio.js": {
-      "maxDuration": 3600
+      "maxDuration": 900
     }
   },
   "env": {}
