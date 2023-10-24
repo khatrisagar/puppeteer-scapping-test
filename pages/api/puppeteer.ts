@@ -11,8 +11,8 @@ interface CustomPuppeteerLaunchOptions extends PuppeteerLaunchOptions {
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const browser = await puppeteer.launch({
     headless: "new", // Enable headless mode
-    cacheDirectory: join(__dirname, "./.cache/puppeteer"),
-    args: ["--no-sandbox"],
+    cacheDirectory: join(__dirname, ".cache", "puppeteer"),
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
   } as CustomPuppeteerLaunchOptions);
 
   try {
