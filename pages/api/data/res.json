@@ -1,0 +1,3642 @@
+[
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/OnePlus-Wireless-Earbuds-Drivers-Playback/dp/B0C8JB3G5W/ref=lp_80662755031_1_1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Fire-Boltt Ninja Call Pro Smart Watch Dual Chip Bluetooth Calling, 1.69\" Display, AI Voice Assistance with 100 Sports Modes, with SpO2 & Heart Rate Monitoring",
+      "currentPrice": "1,049",
+      "originalPrice": "₹17,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Amazon Basics in-Ear Bluetooth 5.0 Wireless Neckband with Mic, 10mm Drivers Magnetic Earbuds, Voice Assistant, Dual Pairing and IPX4 Water-Resistance (Black)",
+      "currentPrice": "699",
+      "originalPrice": "₹1,999",
+      "rating": "2.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "amazon basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 60 Hours Play Time, Voice Assistance and Fast Charging (White)",
+      "currentPrice": "899",
+      "originalPrice": "₹2,499",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Campus Women's Camp Dormie Running Shoe",
+      "currentPrice": "639",
+      "originalPrice": "₹999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sparx Womens Sx0175l Running Shoes",
+      "currentPrice": "934",
+      "originalPrice": "₹1,099",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Fire-Boltt Phoenix Pro 1.39\" Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Black)",
+      "currentPrice": "999",
+      "originalPrice": "₹11,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sparx Womens Sl-194 Running Shoe",
+      "currentPrice": "679",
+      "originalPrice": "₹1,099",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution",
+      "currentPrice": "1,299",
+      "originalPrice": "₹19,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Fire-Boltt Visionary 1.78\" AMOLED Bluetooth Calling Smartwatch with 368 * 448 Pixel Resolution, Rotating Crown & 60Hz Refresh Rate 100+ Sports Mode, TWS Connection, Voice Assistance (Black)",
+      "currentPrice": "2,199",
+      "originalPrice": "₹16,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Wave Sigma Smartwatch with 2.01\" HD Display,Bluetooth Calling, Coins, DIY Watch Face Studio, 700+ Active Modes, HR&SpO2 Monitoring, Energy and Sleep Scores,IP67(Active Black)",
+      "currentPrice": "1,199",
+      "originalPrice": "₹7,499",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)",
+      "currentPrice": "99",
+      "originalPrice": "₹550",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redgear Cosmo 7,1 Usb Gaming Wired Over Ear Headphones With Mic With Virtual Surround Sound,50Mm Driver, Rgb Leds & Remote Control(Black)",
+      "currentPrice": "999",
+      "originalPrice": "₹2,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Razer DeathAdder Essential Wired Gaming Mouse I Single-Color Green Lighting I 6400DPI Optical Sensor- Black - RZ01-03850100-R3M1",
+      "currentPrice": "998",
+      "originalPrice": "₹4,400",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redgear Pro Wireless Gamepad with 2.4GHz Wireless Technology, Integrated Dual Intensity Motor, Illuminated Keys for PC(Compatible with Windows 7/8/8.1/10 only)",
+      "currentPrice": "1,399",
+      "originalPrice": "₹1,799",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Ant Esports MP290 Gaming Mouse Pad-L- Large with Stitched Edges, Waterproof Non-Slip Base for Gaming & Office – Black",
+      "currentPrice": "169",
+      "originalPrice": "₹999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Hyperx Cloud Alpha Black Pro Gaming Wired On Ear Headphones with Mic for Pc, Ps4 & Xbox One, Nintendo Switch (Hx-Hsca-Bk/Ww)",
+      "currentPrice": "8,990",
+      "originalPrice": "₹14,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)",
+      "currentPrice": "99",
+      "originalPrice": "₹550",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+      "currentPrice": "475",
+      "originalPrice": "₹895",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Dell-Wireless-Keyboard-Mouse-Spill-Resistant/dp/B09T3H12GV/ref=lp_91232229031_1_3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP K160 Wireless Keyboard/Quick Comfy accurate/12 Fn Shortcut Keys/Plug and Play USB/ 3 Years Warranty, Black",
+      "currentPrice": "649",
+      "originalPrice": "₹1,699",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redragon Dyaus K509 Wired Semi Mechanical Gaming Keyboard with 7 RGB Backlit Colors on Keys & Without Edge Side Light Illumination (Black)",
+      "currentPrice": "1,035.",
+      "originalPrice": "₹1,690",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redragon K599 Diemos RGB LED Backlit Mechanical Gaming Keyboard (Black)",
+      "currentPrice": "4,084.",
+      "originalPrice": "₹5,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 11th Gen Intel Core i5 Premium Metal Laptop (16GB RAM/512GB SSD/Intel Iris Xe Graphics/Windows 11 Home) AL15-51, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "38,990",
+      "originalPrice": "₹61,990",
+      "rating": "3.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "read ECONNRESET",
+      "name": "Error",
+      "stack": "Error: read ECONNRESET\n    at Function.AxiosError.from (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:3016:25)\n    at RedirectableRequest.emit (node:events:527:28)\n    at ClientRequest.eventHandlers.<computed> (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\follow-redirects\\index.js:14:24)\n    at ClientRequest.emit (node:events:527:28)\n    at TLSSocket.socketErrorListener (node:_http_client:454:9)\n    at TLSSocket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5XSG8Z/ref=sr_1_2?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474772&sprefix=laptop%2Caps%2C258&sr=8-2"
+      },
+      "code": "ECONNRESET",
+      "status": null
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Acer-Premium-Windows-AL15-51-39-62cm/dp/B0C8P8G3WJ/ref=sr_1_3?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474772&sprefix=laptop%2Caps%2C258&sr=8-3"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 11th Gen Intel Core i3 Premium Metal Laptop (8GB RAM/256GB SSD/Windows 11 Home) AL15-51, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "27,990",
+      "originalPrice": "₹42,990",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, 11th Gen Intel Core i3-1115G4, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq2673TU",
+      "currentPrice": "35,990",
+      "originalPrice": "₹47,557",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, 12th Gen Intel Core i3-1215U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Backlit KB, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU",
+      "currentPrice": "38,451",
+      "originalPrice": "₹56,261",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP [SmartChoice] 15s, Ryzen 5-5500U, 16GB RAM/512GB SSD 15.6\"(39.6 cm) FHD Laptop/Alexa Built-in/Windows 11 /AMD Radeon Graphics/MSO 2021/1.69 Kg, eq2132au, eq2182au",
+      "currentPrice": "41,990",
+      "originalPrice": "₹54,479",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "currentPrice": "23,990",
+      "originalPrice": "₹33,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop, AMD Ryzen 5 5600H, AMD 4GB Radeon RX 6500M Graphics, 15.6-inch (39.6 cm), 50W TGP, FHD, IPS, 8GB DDR4, 512GB SSD, Backlit KB, B&O (Win 11, Silver, 2.29 kg), fb0146AX",
+      "currentPrice": "47,990",
+      "originalPrice": "₹63,629",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6\" FHD Display, 1.8 Kg)",
+      "currentPrice": "51,990",
+      "originalPrice": "₹82,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, Intel Pentium Silver N6000, 15.6-inch (39.6 cm), HD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.65 kg), fq3073TU",
+      "currentPrice": "29,999",
+      "originalPrice": "₹36,965",
+      "rating": "3.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS TUF Gaming F15, 15.6\"(39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen, 4GB NVIDIA GeForce RTX 3050 Ti, Gaming Laptop (16GB/512GB SSD/Windows 11/90WHrs Battery/Black/2.30 Kg), FX506HE-HN382W",
+      "currentPrice": "69,990",
+      "originalPrice": "₹97,990",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Dell 14 Laptop, Intel Core i5-1135G7 Processor/ 8GB DDR4/ 512GB SSD/14.0\" (35.56cm) FHD Display with Comfort View/Windows 11 + MSO'21/ Spill-Resistant Keyboard/ 15 Month McAfee/ 1.48kg",
+      "currentPrice": "43,990",
+      "originalPrice": "₹69,211",
+      "rating": "3.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JioBook 11 (2023) NB1112MM(BLU) (Mediatek 8788 Octa-core 2 GHz/ARM Mali G72 MP3 @800 MHz/29.5cms 60 Hz/Thin and Light Laptop/ 4 GB LPDDR4/ 64 GB eMMC/JioOS 4G LTE, Dual Band Wi-Fi/Blue/ 990 GMS)",
+      "currentPrice": "14,499",
+      "originalPrice": "₹25,000",
+      "rating": "3.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6\" (39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/3 Month Game Pass/Arctic Grey/1.65Kg), 82H803TXIN",
+      "currentPrice": "31,990",
+      "originalPrice": "₹49,190",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer One 14 AMD Ryzen 3 3250U Processor (8GB RAM/512GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Laptop Z2-493 with 35.56 cm (14.0\") HD Display",
+      "currentPrice": "24,990",
+      "originalPrice": "₹39,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, Intel Pentium Silver N6000, 15.6-inch (39.6 cm), HD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.65 kg), fq3073TU",
+      "currentPrice": "29,999",
+      "originalPrice": "₹36,965",
+      "rating": "3.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS [SmartChoice] Vivobook 15, Intel Celeron N4020, 15.6\" (39.62 cms) HD, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Fingerprint/Silver/1.8 kg), X515MA-BR024WS",
+      "currentPrice": "28,990",
+      "originalPrice": "₹38,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS BR1100 Laptop, 11.6\" (29.46cm) HD Anti-Glare Display, Intel Celeron N4500, 8GB RAM, 128GB SSD, MIL-STD 810H Durability, Windows 10 Home, Dark Grey, BR1100CKA-GJ0746W",
+      "currentPrice": "19,990",
+      "originalPrice": "₹33,990",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "currentPrice": "23,990",
+      "originalPrice": "₹33,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Chuwi-CoreBook-i3-10110U-2160x1440-Keyboard/dp/B09KTR4PDS/ref=sr_1_21?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474839&sprefix=laptop%2Caps%2C258&sr=8-21"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP 255 G9 (840T7PA) Notebook (AMD Athlon Silver-3050U/ 4GB RAM/ 256GB SSD/DOS/ 15.6\" Screen/ 1 Year Warranty), Black",
+      "currentPrice": "20,000",
+      "originalPrice": "₹27,063",
+      "rating": "4.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "read ECONNRESET",
+      "name": "Error",
+      "stack": "Error: read ECONNRESET\n    at Function.AxiosError.from (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:3016:25)\n    at RedirectableRequest.emit (node:events:527:28)\n    at ClientRequest.eventHandlers.<computed> (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\follow-redirects\\index.js:14:24)\n    at ClientRequest.emit (node:events:527:28)\n    at TLSSocket.socketErrorListener (node:_http_client:454:9)\n    at TLSSocket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Lenovo-1920x1080-Antiglare-300Nits-82TW001DIH/dp/B0CH8D6F4N/ref=sr_1_23?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474839&sprefix=laptop%2Caps%2C258&sr=8-23"
+      },
+      "code": "ECONNRESET",
+      "status": null
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo V15 Intel Celeron N4500 15.6\" (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/256GB SSD/Windows 11 Home/Black/1Y Onsite/1.7 kg), 82QYA00MIN",
+      "currentPrice": "23,990",
+      "originalPrice": "₹42,440",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "read ECONNRESET",
+      "name": "Error",
+      "stack": "Error: read ECONNRESET\n    at Function.AxiosError.from (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:3016:25)\n    at RedirectableRequest.emit (node:events:527:28)\n    at ClientRequest.eventHandlers.<computed> (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\follow-redirects\\index.js:14:24)\n    at ClientRequest.emit (node:events:527:28)\n    at TLSSocket.socketErrorListener (node:_http_client:454:9)\n    at TLSSocket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/HP-15-6-inch-Micro-Edge-Graphics-15s-fq3066TU/dp/B0CJC7S45V/ref=sr_1_25?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474839&sprefix=laptop%2Caps%2C258&sr=8-25"
+      },
+      "code": "ECONNRESET",
+      "status": null
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "AXL VayuBook Laptop 14.1 Inch FHD IPS Display (4GB Ram,128GB SSD) 1920 * 1080 Resolution | HD Gemini Lake N4020 | Windows 11 Home | UHD Graphics 600 | Space Grey",
+      "currentPrice": "12,990",
+      "originalPrice": "₹31,990",
+      "rating": "3.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
+      "currentPrice": "36,990",
+      "originalPrice": "₹56,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Chromebook X360,Intel Celeron N4120,14-Inch (35.6 Cm),Hd,4Gb Lpddr4,64Gb Emmc,Intel Uhd Graphics,Thin&Light,Dual Speakers,Brightview Display (Chrome 64,White,1.49 Kg),Ca0505Tu,Chrome OS",
+      "currentPrice": "22,990",
+      "originalPrice": "₹32,295",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "(Refurbished) Lenovo ThinkPad L460 14inches Laptop - Intel Core i5 6th Gen/8 GB - Upgradable to 16/240 GB SSD/Windows 10/MS Office Pro 2019/Integrated Graphics/Business Laptop, Black",
+      "currentPrice": "",
+      "originalPrice": "₹16,994.00₹89,999₹16,994₹73,005",
+      "rating": "3.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, AMD Athlon Silver 3050U, 15.6 inch(39.6cm) HD Laptop(8GB RAM,512GB SSD,AMD Radeon Graphics,Dual Speakers,Numeric Keypad,Win 11,MSO 21,Natural Silver,1.69 kg) 15s-ey1509AU",
+      "currentPrice": "28,990",
+      "originalPrice": "₹35,147",
+      "rating": "5.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS BR1100 Notebook 12 (2022), 11.6-inch HD, Intel Celeron N4500, (4GB RAM/128GB M.2 NVMe™ PCIe®/Integrated Graphics/Windows 11 Home/Star Grey/1.26 Kg), BR1100CKA-GJ0722W",
+      "currentPrice": "17,990",
+      "originalPrice": "₹30,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "(Refurbished) Dell Latitude E5450 4th Gen Intel Core I5-4300U 14 inches - HD 1366 X 768 Laptop (8 GB/256 GB Ssd/Windows 10 Pro/HD Graphics 5500/Black/1.80 kg)",
+      "currentPrice": "",
+      "originalPrice": "₹15,499.00₹43,000₹15,499₹27,501",
+      "rating": "2.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 11th Gen Intel Core i3 Premium Metal Laptop (8GB RAM/512GB SSD/Windows 11 Home) AL15-51, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "28,990",
+      "originalPrice": "₹44,990",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14\" (35.5cm) WUXGA+ IPS Laptop (16GB/512GB SSD/Win 11/Office 2021/Backlit KB/FHD Camera/Alexa/3 Month Game Pass/Cloud Grey/1.46Kg), 83BF000UIN",
+      "currentPrice": "58,990",
+      "originalPrice": "₹72,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
+      "currentPrice": "36,990",
+      "originalPrice": "₹56,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop AMD Ryzen 5 5600H,15.6inch(39.6cm) FHD Gaming Laptop/16GB RAM/512GB SSD/9ms Response Time/144Hz/AMD Radeon RX 6500M 4GB Graphics/Backlit KB/Win 11/B&O/MSO/XboxPass,15-fb0133AX",
+      "currentPrice": "54,990",
+      "originalPrice": "₹72,526",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/ASUS-29-46cm-Anti-Glare-Durability-BR1100CKA-GJ0746W/dp/B0CH39Y5W1/ref=sr_1_21?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474896&sprefix=laptop%2Caps%2C258&sr=8-21"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "AXL VayuBook Laptop 14.1 Inch FHD IPS Display (4GB Ram,128GB SSD) 1920 * 1080 Resolution | HD Gemini Lake N4020 | Windows 11 Home | UHD Graphics 600 | Space Grey",
+      "currentPrice": "12,990",
+      "originalPrice": "₹31,990",
+      "rating": "3.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Notebook Ultra Max 11th Gen Intel Core i5-11320H Thin & Light (16GB/512GB SSD/Iris Xe Graphics/15.6\" 3.2K Resolution/Win 11/Thunderbolt 4/MS Office '21/Fingerprint Sensor/1.7 Kg)",
+      "currentPrice": "47,990",
+      "originalPrice": "₹76,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (8GB RAM/512GB SSD/Windows 11 Home) AL15-52, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "31,990",
+      "originalPrice": "₹52,990",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H, NVIDIA RTX 3050 GPU, 15.6-inch (39.6 cm), FHD, IPS, 144Hz, 9 ms Response time, 16GB DDR4, 512GB SSD, Backlit KB (MSO, Blue, 2.29 kg) fa0666TX",
+      "currentPrice": "68,990",
+      "originalPrice": "₹88,646",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Creator Series Vivobook 16X (2023), Intel Core i5-12450H 12th Gen, 16\" (40.64 cm) FHD+, Laptop (16GB/512GB/4GB RTX 2050/Win11/Office 2021/FP/Black/1.8 kg), K3605ZF-MBN543WS",
+      "currentPrice": "62,990",
+      "originalPrice": "₹90,990",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Dell 15 Laptop, Intel Core i3-1115G4, 8GB/1TB + 256GB SSD/15.6\" (39.62cm) FHD with Comfort View/Mobile Connect/Windows 11 + MSO'21/15 Month McAfee/Spill-Resistant Keyboard/Carbon/ 1.69kg",
+      "currentPrice": "37,990",
+      "originalPrice": "₹51,362",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "(Refurbished) Lenovo V15 AMD Ryzen 5 15.6\"(39.62cms) FHD Thin and Light Laptop (8GB/1TB HDD/Windows 10/AMD Radeon Vega 8 Graphics/Iron Grey/1.85Kg), 82C7003PIH",
+      "currentPrice": "",
+      "originalPrice": "₹25,562.00₹45,000₹25,562₹19,438",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP 255 G9 (840T7PA) Notebook (AMD Athlon Silver-3050U/ 4GB RAM/ 256GB SSD/DOS/ 15.6\" Screen/ 1 Year Warranty), Black",
+      "currentPrice": "20,000",
+      "originalPrice": "₹27,063",
+      "rating": "4.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo IdeaPad Gaming 3 AMD Ryzen 7 6800H 15.6\" (39.62cm) FHD IPS 120Hz Gaming Laptop (8GB/512GB SSD/Win11/Office/NVIDIA RTX 3050 4GB/RGB Keyboard/Alexa/3 Month Game Pass/Onyx Grey/2.32Kg), 82SB00V5IN",
+      "currentPrice": "62,990",
+      "originalPrice": "₹97,790",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MSI Titan GT77 HX, Intel 13th Gen. i9-13980HX, 44CM FHD 144Hz Mini LED, HDR 1000 Gaming Laptop (64GB/4TB NVMe SSD/Windows 11 Home/Nvidia GeForce RTX4090, 16GB GDDR6/Core Black/3.3Kg), 13VI-092IN",
+      "currentPrice": "5,69,990",
+      "originalPrice": "₹6,71,990",
+      "rating": "3.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, Ryzen 5 5500U, 15.6-inch (39.6 cm) FHD, Anti-Glare, 16GB DDR4, 512GB SSD, AMD Radeon Graphics, Dual Speakers, Backlit KB (Win 11,MSO, Natural Silver, 1.69 kg), 15s-eq2132au",
+      "currentPrice": "42,690",
+      "originalPrice": "₹54,479",
+      "rating": "3.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS TUF Gaming A15 (2022), 15.6\"(39.62 cms) FHD 165Hz, AMD Ryzen 7 6800H, RTX 3060 6GB Graphics, Gaming Laptop (16GB/1 TB SSD/90WHrs Battery/Windows 11/Office 2021/Gray/2.2 kg), FA577RM-HQ032WS",
+      "currentPrice": "99,990",
+      "originalPrice": "₹1,81,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15, 13th Gen Intel Core i5-1335U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 1TB SSD, Intel Iris Xe Graphics, FPR, FHD Camera w/Privacy Shutter (Win 11, MSO 2021, Silver, 1.59 kg), fd0012TU",
+      "currentPrice": "62,990",
+      "originalPrice": "₹78,477",
+      "rating": "3.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Newly Launched NBC 4S Core i5 12th Gen 1235U (16 GB RAM 3200MHz/512 GB M.2 SATA SSD/Windows 11 Home) 15.6” 1080p,Dolby Atmos, Type C Port, Fingerprint Sensor,38.5Wh Battery (Midnight Blue)",
+      "currentPrice": "39,990",
+      "originalPrice": "₹62,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Newly Launched NBC 5S Core i7 12th Gen 1255U- (16 GB RAM 3200MHz/ 1 TB M.2 SATA SSD/Windows 11 Home) 15.6” 1080p, Dolby Atmos,Type C Port, Fingerprint Sensor, 38.5Wh Battery (Midnight Blue)",
+      "currentPrice": "52,990",
+      "originalPrice": "₹81,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NDgyMzc1MjAyMjc0NjY1OjE2OTg0NzQ4OTY6c3BfYnRmOjMwMDA2NzQ5NDk5MjkzMjo6MDo6&url=%2FRenewed-Lenovo-IdeaPad-Platinum-81WH007KIN%2Fdp%2FB09PBS2BK3%2Fref%3Dsr_1_37_sspa%3Fcrid%3D1QKSKTDH41DSM%26keywords%3Dlaptop%26qid%3D1698474896%26sprefix%3Dlaptop%252Caps%252C258%26sr%3D8-37-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "(Refurbished) Lenovo IdeaPad Slim 3 10th Gen Intel Core i3 14\" (35.56cm) FHD Thin & Light Laptop (4GB/25",
+      "currentPrice": "",
+      "originalPrice": "₹20,929.00₹36,990₹20,929₹16,061",
+      "rating": "3.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
+      "currentPrice": "36,990",
+      "originalPrice": "₹56,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop AMD Ryzen 5 5600H,15.6inch(39.6cm) FHD Gaming Laptop/16GB RAM/512GB SSD/9ms Response Time/144Hz/AMD Radeon RX 6500M 4GB Graphics/Backlit KB/Win 11/B&O/MSO/XboxPass,15-fb0133AX",
+      "currentPrice": "54,990",
+      "originalPrice": "₹72,526",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS BR1100 Laptop, 11.6\" (29.46cm) HD Anti-Glare Display, Intel Celeron N4500, 8GB RAM, 128GB SSD, MIL-STD 810H Durability, Windows 10 Home, Dark Grey, BR1100CKA-GJ0746W",
+      "currentPrice": "19,990",
+      "originalPrice": "₹33,990",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "AXL VayuBook Laptop 14.1 Inch FHD IPS Display (4GB Ram,128GB SSD) 1920 * 1080 Resolution | HD Gemini Lake N4020 | Windows 11 Home | UHD Graphics 600 | Space Grey",
+      "currentPrice": "12,990",
+      "originalPrice": "₹31,990",
+      "rating": "3.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Notebook Ultra Max 11th Gen Intel Core i5-11320H Thin & Light (16GB/512GB SSD/Iris Xe Graphics/15.6\" 3.2K Resolution/Win 11/Thunderbolt 4/MS Office '21/Fingerprint Sensor/1.7 Kg)",
+      "currentPrice": "47,990",
+      "originalPrice": "₹76,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (8GB RAM/512GB SSD/Windows 11 Home) AL15-52, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "31,990",
+      "originalPrice": "₹52,990",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H, NVIDIA RTX 3050 GPU, 15.6-inch (39.6 cm), FHD, IPS, 144Hz, 9 ms Response time, 16GB DDR4, 512GB SSD, Backlit KB (MSO, Blue, 2.29 kg) fa0666TX",
+      "currentPrice": "68,990",
+      "originalPrice": "₹88,646",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Creator Series Vivobook 16X (2023), Intel Core i5-12450H 12th Gen, 16\" (40.64 cm) FHD+, Laptop (16GB/512GB/4GB RTX 2050/Win11/Office 2021/FP/Black/1.8 kg), K3605ZF-MBN543WS",
+      "currentPrice": "62,990",
+      "originalPrice": "₹90,990",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP 255 G9 (840T7PA) Notebook (AMD Athlon Silver-3050U/ 4GB RAM/ 256GB SSD/DOS/ 15.6\" Screen/ 1 Year Warranty), Black",
+      "currentPrice": "20,000",
+      "originalPrice": "₹27,063",
+      "rating": "4.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo IdeaPad Gaming 3 AMD Ryzen 7 6800H 15.6\" (39.62cm) FHD IPS 120Hz Gaming Laptop (8GB/512GB SSD/Win11/Office/NVIDIA RTX 3050 4GB/RGB Keyboard/Alexa/3 Month Game Pass/Onyx Grey/2.32Kg), 82SB00V5IN",
+      "currentPrice": "62,990",
+      "originalPrice": "₹97,790",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MSI Titan GT77 HX, Intel 13th Gen. i9-13980HX, 44CM FHD 144Hz Mini LED, HDR 1000 Gaming Laptop (64GB/4TB NVMe SSD/Windows 11 Home/Nvidia GeForce RTX4090, 16GB GDDR6/Core Black/3.3Kg), 13VI-092IN",
+      "currentPrice": "5,69,990",
+      "originalPrice": "₹6,71,990",
+      "rating": "3.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, Ryzen 5 5500U, 15.6-inch (39.6 cm) FHD, Anti-Glare, 16GB DDR4, 512GB SSD, AMD Radeon Graphics, Dual Speakers, Backlit KB (Win 11,MSO, Natural Silver, 1.69 kg), 15s-eq2132au",
+      "currentPrice": "42,690",
+      "originalPrice": "₹54,479",
+      "rating": "3.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS TUF Gaming A15 (2022), 15.6\"(39.62 cms) FHD 165Hz, AMD Ryzen 7 6800H, RTX 3060 6GB Graphics, Gaming Laptop (16GB/1 TB SSD/90WHrs Battery/Windows 11/Office 2021/Gray/2.2 kg), FA577RM-HQ032WS",
+      "currentPrice": "99,990",
+      "originalPrice": "₹1,81,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15, 13th Gen Intel Core i5-1335U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 1TB SSD, Intel Iris Xe Graphics, FPR, FHD Camera w/Privacy Shutter (Win 11, MSO 2021, Silver, 1.59 kg), fd0012TU",
+      "currentPrice": "62,990",
+      "originalPrice": "₹78,477",
+      "rating": "3.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Newly Launched NBC 4S Core i5 12th Gen 1235U (16 GB RAM 3200MHz/512 GB M.2 SATA SSD/Windows 11 Home) 15.6” 1080p,Dolby Atmos, Type C Port, Fingerprint Sensor,38.5Wh Battery (Midnight Blue)",
+      "currentPrice": "39,990",
+      "originalPrice": "₹62,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Newly Launched NBC 5S Core i7 12th Gen 1255U- (16 GB RAM 3200MHz/ 1 TB M.2 SATA SSD/Windows 11 Home) 15.6” 1080p, Dolby Atmos,Type C Port, Fingerprint Sensor, 38.5Wh Battery (Midnight Blue)",
+      "currentPrice": "52,990",
+      "originalPrice": "₹81,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JioBook 11 (2023) NB1112MM(BLU) (Mediatek 8788 Octa-core 2 GHz/ARM Mali G72 MP3 @800 MHz/29.5cms 60 Hz/Thin and Light Laptop/ 4 GB LPDDR4/ 64 GB eMMC/JioOS 4G LTE, Dual Band Wi-Fi/Blue/ 990 GMS)",
+      "currentPrice": "14,499",
+      "originalPrice": "₹25,000",
+      "rating": "3.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, AMD Ryzen 7 5700U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, AMD Radeon Graphics, Backlit KB, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), ey2001AU",
+      "currentPrice": "49,990",
+      "originalPrice": "₹64,235",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite AMD Ryzen 5 5500U Premium Thin and Light Laptop (16 GB RAM/512 GB SSD/Windows 11 Home) AL15-41, 39.62 cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 KG",
+      "currentPrice": "35,990",
+      "originalPrice": "₹59,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15s, 12th Gen Intel Core i7-1255U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe Graphics, Backlit KB, Thin & Light (Win 11, MSO 2021, Silver, 1.69 kg), fq5190TU",
+      "currentPrice": "63,990",
+      "originalPrice": "₹78,778",
+      "rating": "3.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
+      "currentPrice": "36,990",
+      "originalPrice": "₹56,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo IdeaPad Slim 3 Intel Core i7 11th Gen 15.6\" (39.62cm) FHD Laptop (16GB/512GB SSD/Win 11/Office 2021/1 Year Warranty/Arctic Grey/1.65Kg), 82H803LPIN",
+      "currentPrice": "52,990",
+      "originalPrice": "₹79,690",
+      "rating": "3.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Chuwi HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), FHD IPS Display, Ultra Slim, Mini-HDMI, USB3.0, Webcam,TF Card",
+      "currentPrice": "18,990",
+      "originalPrice": "₹34,990",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_24?crid=1QKSKTDH41DSM&keywords=laptop&qid=1698474954&sprefix=laptop%2Caps%2C258&sr=8-24"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASUS BR1100 Laptop, 11.6\" (29.46cm) HD Anti-Glare Display, Intel Celeron N4500, 8GB RAM, 128GB SSD, MIL-STD 810H Durability, Windows 10 Home, Dark Grey, BR1100CKA-GJ0746W",
+      "currentPrice": "19,990",
+      "originalPrice": "₹33,990",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "AXL VayuBook Laptop 14.1 Inch FHD IPS Display (4GB Ram,128GB SSD) 1920 * 1080 Resolution | HD Gemini Lake N4020 | Windows 11 Home | UHD Graphics 600 | Space Grey",
+      "currentPrice": "12,990",
+      "originalPrice": "₹31,990",
+      "rating": "3.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Notebook Ultra Max 11th Gen Intel Core i5-11320H Thin & Light (16GB/512GB SSD/Iris Xe Graphics/15.6\" 3.2K Resolution/Win 11/Thunderbolt 4/MS Office '21/Fingerprint Sensor/1.7 Kg)",
+      "currentPrice": "47,990",
+      "originalPrice": "₹76,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Laptop 15, 12th Gen i5-1235U, 15.6-inch (39.6 cm), FHD, Anti-Glare, 8GB DDR4, 512GB SSD, Intel Iris Xᶱ Graphics, Backlit Keyboard, Dual Speakers, (Win 11, MSO 2021, Silver, 1.69 kg), 15s-fy5007TU",
+      "currentPrice": "50,990",
+      "originalPrice": "₹65,447",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (8GB RAM/512GB SSD/Windows 11 Home) AL15-52, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+      "currentPrice": "31,990",
+      "originalPrice": "₹52,990",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H, NVIDIA RTX 3050 GPU, 15.6-inch (39.6 cm), FHD, IPS, 144Hz, 9 ms Response time, 16GB DDR4, 512GB SSD, Backlit KB (MSO, Blue, 2.29 kg) fa0666TX",
+      "currentPrice": "68,990",
+      "originalPrice": "₹88,646",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HP 255 G9 (840T7PA) Notebook (AMD Athlon Silver-3050U/ 4GB RAM/ 256GB SSD/DOS/ 15.6\" Screen/ 1 Year Warranty), Black",
+      "currentPrice": "20,000",
+      "originalPrice": "₹27,063",
+      "rating": "4.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Dell 14 Laptop, Intel Core 12th Gen i3-1215U Processor/8GB/512GB SSD/Intel UHD Graphics/14.0\"(35.56cm) FHD/Thin & Light 1.48kg/Windows 11 + MSO'21/15 Month McAfee/Spill-Resistant Keyboard/Dark Silver",
+      "currentPrice": "38,990",
+      "originalPrice": "₹48,692₹50,297₹78,778",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)",
+      "currentPrice": "61,999",
+      "originalPrice": "",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi 12C (Mint Green, 4GB RAM, 64GB Storage) | High Performance Mediatek Helio G85 | Big 17cm(6.71) HD+ Display with 5000mAh(typ) Battery",
+      "currentPrice": "6,999",
+      "originalPrice": "₹13,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy S23 FE 5G (Purple, 8GB, 256GB Storage)",
+      "currentPrice": "64,999",
+      "originalPrice": "₹84,999",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo N53 (Feather Black, 4GB+64GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
+      "currentPrice": "7,999",
+      "originalPrice": "₹10,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Samsung-Storage-MediaTek-Octa-core-Processor/dp/B0BMGC6LHP/ref=sr_1_5?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698483934&sprefix=phone%2Caps%2C220&sr=8-5"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo N53 (Feather Black, 6GB+128GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
+      "currentPrice": "10,499",
+      "originalPrice": "₹12,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Nokia 2660 Flip 4G Volte keypad Phone with Dual SIM, Dual Screen, inbuilt MP3 Player & Wireless FM Radio | Black",
+      "currentPrice": "4,449",
+      "originalPrice": "₹5,899",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo N53 (Feather Gold, 6GB+128GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
+      "currentPrice": "10,499",
+      "originalPrice": "₹12,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)",
+      "currentPrice": "10,299",
+      "originalPrice": "₹18,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+      "currentPrice": "6,499",
+      "originalPrice": "₹11,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi 12 5G Moonstone Silver 4GB RAM 128GB ROM",
+      "currentPrice": "11,999",
+      "originalPrice": "₹15,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus Nord 3 5G (Misty Green, 16GB RAM, 256GB Storage)",
+      "currentPrice": "37,998",
+      "originalPrice": "",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 128GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+      "currentPrice": "7,499",
+      "originalPrice": "₹13,499",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "currentPrice": "9,199",
+      "originalPrice": "₹14,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi A2 (Classic Black, 2GB RAM, 64GB Storage)",
+      "currentPrice": "5,299",
+      "originalPrice": "₹9,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Note 11T 5G (Matte Black, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers",
+      "currentPrice": "13,999",
+      "originalPrice": "₹20,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "currentPrice": "9,199",
+      "originalPrice": "₹14,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi A2 (Sea Green, 2GB RAM, 64GB Storage)",
+      "currentPrice": "5,299",
+      "originalPrice": "₹9,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Nokia C32 with 50MP Dual Rear AI Camera | Toughened Glass Back | 4GB RAM, 128GB Storage | Upto 7GB RAM with RAM Extension | 5000 mAh Battery | 1 Year Replacement Warranty | Android 13 | Pink",
+      "currentPrice": "8,999",
+      "originalPrice": "₹10,999",
+      "rating": "3.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/OnePlus-Nord-N20-SE-Storage/dp/B0CGX8DHM2/ref=sr_1_20?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698483934&sprefix=phone%2Caps%2C220&sr=8-20"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Note 12 5G Frosted Green 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "currentPrice": "15,998",
+      "originalPrice": "₹19,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OPPO A79 5G (Glowing Green, 8GB RAM, 128GB Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger | 50MP AI Rear Camera | 6.72\" FHD+ 90Hz Display | with No Cost EMI/Additional Exchange Offers",
+      "currentPrice": "19,999",
+      "originalPrice": "₹22,999",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Oppo F23 5G (Cool Black, 8GB RAM, 256GB Storage) | 5000 mAh Battery with 67W SUPERVOOC Charger | 64MP Rear Triple AI Camera with Microlens | 6.72\" FHD+ 120Hz Display | with Offer",
+      "currentPrice": "22,999",
+      "originalPrice": "₹28,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus Nord N20 SE (Oasis Blue, 4GB RAM, 64GB Storage)",
+      "currentPrice": "14,999",
+      "originalPrice": "₹24,999",
+      "rating": "5.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi A2 (Aqua Blue, 2GB RAM, 64GB Storage)",
+      "currentPrice": "5,299",
+      "originalPrice": "₹9,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Burgundy-Storage-Additional-Exchange-Offers/dp/B07WGPKTST/ref=sr_1_20?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698483987&sprefix=phone%2Caps%2C220&sr=8-20"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "currentPrice": "11,199",
+      "originalPrice": "₹17,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/realme-Storage-Octa-core-Processor-Battery/dp/B0BBM78DMV/ref=sr_1_22?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698483987&sprefix=phone%2Caps%2C220&sr=8-22"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy M04 Light Green, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+      "currentPrice": "6,499",
+      "originalPrice": "₹11,499",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo 60 5G (Mars Orange,8GB+256GB) | 90Hz Super AMOLED Display | Ultra Premium Vegan Leather Design | with 33W SUPERVOOC Charger",
+      "currentPrice": "17,749",
+      "originalPrice": "₹20,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Note 12 5G (Matte Black,8GB RAM, 256GB Storage)",
+      "currentPrice": "19,499",
+      "originalPrice": "₹23,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/itel-Dimensity-5000mAh-Battery-Warranty/dp/B0CHJPZXX5/ref=sr_1_26?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698483987&sprefix=phone%2Caps%2C220&sr=8-26"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "iQOO Z7s 5G by vivo (Norway Blue, 8GB RAM, 128GB Storage) | Ultra Bright AMOLED Display | Snapdragon 695 5G 6nm Processor | 64 MP OIS Ultra Stable Camera | 44WFlashCharge",
+      "currentPrice": "17,499",
+      "originalPrice": "₹24,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi 12C (Lavender Purple, 4GB RAM, 64GB Storage) | High Performance Mediatek Helio G85 | Big 17cm(6.71) HD+ Display with 5000mAh(typ) Battery",
+      "currentPrice": "6,999",
+      "originalPrice": "₹13,999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 256GB Storage)",
+      "currentPrice": "21,999",
+      "originalPrice": "",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+      "currentPrice": "29,999",
+      "originalPrice": "₹74,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "iQOO Z6 Lite 5G (Stellar Green, 6GB RAM, 128GB Storage) with Charger | World's First Snapdragon 4 Gen 1 | Best in-Segment 120Hz Refresh Rate | Travel Adaptor Included in The Box",
+      "currentPrice": "13,249",
+      "originalPrice": "₹19,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "TECNO Camon 20 (Predawn Black, 8GB RAM,256GB Storage)|16GB Expandable RAM | 64MP RGBW Rear Camera|6.67 FHD+ Big AMOLED with in-Display Fingerprint Sensor",
+      "currentPrice": "14,999",
+      "originalPrice": "₹17,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "read ECONNRESET",
+      "name": "Error",
+      "stack": "Error: read ECONNRESET\n    at Function.AxiosError.from (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:3016:25)\n    at RedirectableRequest.emit (node:events:527:28)\n    at ClientRequest.eventHandlers.<computed> (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\follow-redirects\\index.js:14:24)\n    at ClientRequest.emit (node:events:527:28)\n    at TLSSocket.socketErrorListener (node:_http_client:454:9)\n    at TLSSocket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Nothing-Phone-1/dp/B0BGFGXV5G/ref=sr_1_33?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698484049&sprefix=phone%2Caps%2C220&sr=8-33"
+      },
+      "code": "ECONNRESET",
+      "status": null
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Note 12 5G Frosted Green 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "currentPrice": "17,499",
+      "originalPrice": "₹21,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme GT 2 Pro (Paper White 8 GB RAM+128 GB Storage) Qualcomm Snapdragon 8 Gen | 50MP Camera",
+      "currentPrice": "32,999",
+      "originalPrice": "₹57,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo 50i Prime (Dark Blue 4GB RAM+64GB Storage) Octa-core Processor | 5000 mAh Battery",
+      "currentPrice": "7,299",
+      "originalPrice": "₹9,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "itel A60s (4GB RAM + 64GB ROM, Up to 8GB RAM with Memory Fusion | 8MP AI Rear Camera | 5000mAh Battery with 10W Charging | Faceunlock & Fingerprint -Glacier Green",
+      "currentPrice": "5,999",
+      "originalPrice": "₹8,499",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi A2 (Aqua Blue, 4GB RAM, 64GB Storage) | Powerful Octa Core G36 Processor | Upto 7GB RAM | Large 16.5 cm HD+ Display with Massive 5000mAh Battery | 2 Years Warranty [Limited time Offer]",
+      "currentPrice": "6,799",
+      "originalPrice": "₹10,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy A14 5G (Dark Red, 8GB, 128GB Storage) | Triple Rear Camera (50 MP Main) | Upto 16 GB RAM with RAM Plus | Without Charger",
+      "currentPrice": "19,999",
+      "originalPrice": "₹22,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Nokia-Toughened-Extension-Replacement-Warranty/dp/B0C591VB5D/ref=sr_1_40?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698484049&sprefix=phone%2Caps%2C220&sr=8-40"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "itel S23 (8GB RAM + 128GB ROM, Up to 16GB RAM with Memory Fusion | 50MP AI Dual Rear Camera | 5000mAh Battery with Type-C Charging | 90 Hz Display) - Mystery White",
+      "currentPrice": "8,699",
+      "originalPrice": "₹10,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Redmi-Storage-Performance-Mediatek-Display/dp/B0BYN6SGHD/ref=sr_1_42?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698484049&sprefix=phone%2Caps%2C220&sr=8-42"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "iQOO Z7s 5G by vivo (Pacific Night, 8GB RAM, 128GB Storage) | Ultra Bright AMOLED Display | Snapdragon 695 5G 6nm Processor | 64 MP OIS Ultra Stable Camera | 44WFlashCharge",
+      "currentPrice": "17,499",
+      "originalPrice": "₹24,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lava Agni 2 5G (Glass Iron, 8GB RAM, 256GB Storage) |2.6GHz Dimensity 7050 6nm Processor | Curved Amoled Display| 13 5G Bands | Superfast 66W Charger | Clean Android (No Bloatware, No Ads)",
+      "currentPrice": "19,999",
+      "originalPrice": "₹25,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme GT Neo 3 (Asphalt Black, 8GB RAM, 128GB Storage)",
+      "currentPrice": "29,699",
+      "originalPrice": "₹38,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/SHIVANSH-Mobile-MICROMAX-Storage-Capacity/dp/B0CKBQJT4D/ref=sr_1_46?crid=LG8LNE6Z7ORE&keywords=phone&qid=1698484049&sprefix=phone%2Caps%2C220&sr=8-46"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme narzo 60X 5G（Nebula Purple 6GB,128GB Storage ） Up to 2TB External Memory | 50 MP AI Primary Camera | Segments only 33W Supervooc Charge",
+      "currentPrice": "12,999",
+      "originalPrice": "₹15,999",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Note 12 5G Frosted Green 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "currentPrice": "15,998",
+      "originalPrice": "₹19,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus Pad Go 28.85cm (11.35 inch) 2.4K 7:5 Ratio ReadFit Eye Care LCD Display, Dolby Atmos Quad Speakers,Wi-Fi Only, 8GB RAM 128 GB ROM Expandable Up-to 1TB, Twin Mint Colour",
+      "currentPrice": "19,999",
+      "originalPrice": "",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab A8 26.69cm (10.5 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray, (SM-X200NZAEINU)",
+      "currentPrice": "16,998",
+      "originalPrice": "₹23,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S6 Lite 26.31 cm (10.4 inch), S-Pen in Box, Slim and Light, Dolby Atmos Sound, 4 GB RAM, 64 GB ROM, Wi-Fi Tablet, Gray",
+      "currentPrice": "24,990",
+      "originalPrice": "₹30,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HONOR Pad X8 with Free Flip-Cover, 25.65cm (10.1 inch) FHD Display, 4GB RAM 64GB ROM, Mediatek MT8786, Android 12, TUV Rheinland Certified Eye Protection, Up to 14 Hours Battery WiFi Tablet, Blue Hour",
+      "currentPrice": "9,999",
+      "originalPrice": "₹21,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Pad | MediaTek Helio G99 | 26.95cm (10.61 inch) 2K Resolution & 90Hz Refresh Rate Display | 4GB RAM & 128GB Storage, Expandable up to 1TB | Quad Speaker - Dolby Atmos | Wi-Fi | Graphite Gray",
+      "currentPrice": "14,498",
+      "originalPrice": "₹28,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme Pad X WiFi+5G Tablet | 6GB RAM 128GB ROM (Expandable), 27.9cm (11 inch) WUXGA+ Display | 6nm SD Processor | Dolby Atmos Quad Speakers | 8340 mAh Battery | Blue Colour",
+      "currentPrice": "25,999",
+      "originalPrice": "₹44,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "HONOR Pad X9 with Free Flip-Cover 11.5-inch (29.21 cm) 2K Display, Snapdragon 685, 7GB (4GB+3GB RAM Turbo), 128GB Storage, 6 Speakers, Up-to 13 Hours Battery, Android 13, WiFi Tablet, Metal Body, Gray",
+      "currentPrice": "15,999",
+      "originalPrice": "₹25,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M10 FHD 3rd Gen| 10.1 Inch (25.65 cm) | 4 GB RAM, 64 GB ROM| Wi-Fi + LTE, Voice Calling | Full HD Display| Dual Speakers| Octa-Core Processor (Storm Grey)",
+      "currentPrice": "13,999",
+      "originalPrice": "₹30,000",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M10 HD LED Tablet (10.1-inch, 2GB, 16GB, Cellular, WiFi Calling + WiFi, Volte Black)",
+      "currentPrice": "6,949",
+      "originalPrice": "₹20,000",
+      "rating": "3.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Samsung-Galaxy-26-31-S-Pen-Tablet/dp/B0B3JHBH1L/ref=sr_1_10?crid=1V5A8AQTK24GS&keywords=tablet&qid=1698484096&sprefix=table%2Caps%2C297&sr=8-10"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "realme Pad 2 8 GB RAM 256 GB ROM 11.5 inch with Wi-Fi+4G Tablet (Imagination Grey)",
+      "currentPrice": "22,999",
+      "originalPrice": "₹32,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S9 FE 27.69 cm (10.9 inch) Display, RAM 6 GB, ROM 128 GB Expandable, S Pen in-Box, Wi-Fi, IP68 Tablet, Gray",
+      "currentPrice": "36,999",
+      "originalPrice": "₹44,999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/OnePlus-29-49cm-MediaTek-Dimensity-Cellular/dp/B0BY2ZZ4SJ/ref=sr_1_13?crid=1V5A8AQTK24GS&keywords=tablet&qid=1698484096&sprefix=table%2Caps%2C297&sr=8-13"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus Pad Go 28.85cm (11.35 inch) 2.4K 7:5 Ratio ReadFit Eye Care LCD Display, Dolby Atmos Quad Speakers,4G LTE(Calling) + Wi-Fi Connectivity Tablet, 8GB RAM 256 GB Storage Expandable Up-to 1TB",
+      "currentPrice": "23,999",
+      "originalPrice": "",
+      "rating": "",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab A9 22.10 cm (8.7 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray",
+      "currentPrice": "12,999",
+      "originalPrice": "₹14,999",
+      "rating": "3.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M8 HD Tablets (8-inches(20cm), 2GB, 32GB, Wi-Fi Only), Grey",
+      "currentPrice": "6,740",
+      "originalPrice": "₹14,000",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab A9 22.10 cm (8.7 inch) Display, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Gray",
+      "currentPrice": "12,999",
+      "originalPrice": "₹14,999",
+      "rating": "3.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab A8 10.5 inches Display with Calling, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi+LTE Tablets, Gray, (SM-X205NZAEINU)",
+      "currentPrice": "17,999",
+      "originalPrice": "₹20,799",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M8 HD Tablets (8-inches(20cm), 2GB, 32GB, Wi-Fi Only), Grey",
+      "currentPrice": "6,740",
+      "originalPrice": "₹14,000",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S7 FE 31.5 cm (12.4 inch) Large Display, S-Pen in Box, Slim Metal Body, Dolby Atmos Sound, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Mystic Green",
+      "currentPrice": "32,999",
+      "originalPrice": "₹49,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab A7 Lite 22.05 cm (8.7 inch), Slim Metal Body, Dolby Atmos Sound, RAM 3 GB, ROM 32 GB Expandable, Wi-Fi-only Tablet, Gray",
+      "currentPrice": "9,499",
+      "originalPrice": "₹14,500",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M10 FHD Plus (3rd Gen) (10.61 inch (26.94 cm), 6 GB, 128 GB, Wi-Fi), Storm Grey with Qualcomm Snapdragon Processor, 7700 mAH Battery and Quad Speakers with Dolby Atmos",
+      "currentPrice": "14,999",
+      "originalPrice": "₹32,000",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Lenovo Tab M10 FHD Plus (3rd Gen) (10.61 inch (26.94 cm), 6 GB, 128 GB, Wi-Fi+LTE, Calling), Storm Grey with Qualcomm Snapdragon Processor, 7700 mAH Battery and Quad Speakers with Dolby Atmos",
+      "currentPrice": "16,999",
+      "originalPrice": "₹34,000",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "SAMSUNG Galaxy Tab A7 Lite 8.7\" 32GB Android Tablet w/ Compact, Slim Design, Sturdy Metal Frame, Long Lasting Battery, SM-T220NZAAXAR, Gray Wi-Fi",
+      "currentPrice": "10,799",
+      "originalPrice": "₹14,500",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Lenovo-Expandable-Certified-Octa-Core-ZACH0070IN/dp/B0CJ3431XX/ref=sr_1_25?crid=1V5A8AQTK24GS&keywords=tablet&qid=1698484196&sprefix=table%2Caps%2C297&sr=8-25"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Pad 6| Qualcomm Snapdragon 870| 144Hz Refresh Rate| 8GB, 256GB| 2.8K+ Display (11-inch/27.81cm)|1 Billion Colours| Dolby Vision Atmos| Quad Speakers| Wi-Fi| Gray",
+      "currentPrice": "26,999",
+      "originalPrice": "₹41,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi Pad | MediaTek Helio G99 | 26.95cm (10.61 inch) 2K Resolution & 90Hz Refresh Rate Display | 6GB RAM & 128GB Storage, Expandable up to 1TB | Quad Speaker - Dolby Atmos | Wi-Fi | Graphite Gray",
+      "currentPrice": "16,498",
+      "originalPrice": "₹33,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S7 FE 31.5 cm (12.4 inch) Large Display, S-Pen in Box, Slim Metal Body, Dolby Atmos Sound, RAM 4 GB, ROM 64 GB Expandable, Wi-Fi Tablet, Mystic Black",
+      "currentPrice": "34,999",
+      "originalPrice": "₹49,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S8 | 27.81cm (11.0\") LCD Display | 4nm Processor | 8,000 mAh Battery | Dolby Atmos Quad Speakers | Android 12.0 | 8GB+128GB | Wi-Fi | S Pen Support | Graphite",
+      "currentPrice": "49,998",
+      "originalPrice": "₹66,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung Galaxy Tab S8 | 27.81cm (11.0\") LCD Display | 4nm Processor | 8,000 mAh Battery | Dolby Atmos Quad Speakers | Android 12.0 | 8GB+128GB | Wi-Fi | S Pen Support | Silver",
+      "currentPrice": "49,999",
+      "originalPrice": "₹66,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi Pad 5| Qualcomm Snapdragon 860| 120Hz Refresh Rate| 6GB, 128GB| 2.5K+ Display (10.95-inch/27.81cm)|1 Billion Colours| Dolby Vision Atmos| Quad Speakers| Wi-Fi| Gray",
+      "currentPrice": "22,999",
+      "originalPrice": "₹37,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Apple 2022 12.9-inch iPad Pro (Wi-Fi + Cellular, 2TB) - Space Grey (6th Generation)",
+      "currentPrice": "2,36,890",
+      "originalPrice": "₹2,37,900",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+      "currentPrice": "12,990",
+      "originalPrice": "₹22,900",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MI 80 cm (32 inches) A Series HD Ready Smart Google TV L32M8-5AIN (Black)",
+      "currentPrice": "11,499",
+      "originalPrice": "₹24,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32R8-FVIN (Black)",
+      "currentPrice": "10,499",
+      "originalPrice": "₹24,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MI 80 cm (32 inches) 5A Series HD Ready Smart Android LED TV L32M7-5AIN (Black)",
+      "currentPrice": "10,499",
+      "originalPrice": "₹24,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black)",
+      "currentPrice": "24,999",
+      "originalPrice": "₹39,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "VW 80 cm (32 inches) Frameless Series HD Ready Android Smart LED TV VW32S (Black)",
+      "currentPrice": "",
+      "originalPrice": "",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA43CUE60AKLXL (Black)",
+      "currentPrice": "28,490",
+      "originalPrice": "₹52,900",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "iFFALCON 80.04 cm (32 inches) Bezel-Less S Series HD Ready Smart Android LED TV iFF32S53 (Black)",
+      "currentPrice": "7,999",
+      "originalPrice": "₹19,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "TCL 101 cm (40 inches) Bezel-Less S Series Full HD Smart Android LED TV 40S5400A (Black)",
+      "currentPrice": "15,990",
+      "originalPrice": "₹40,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74K (Black)",
+      "currentPrice": "52,990",
+      "originalPrice": "₹99,900",
+      "rating": "4.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "LG 80 cm (32 inches) HD Ready Smart LED TV 32LQ643BPTA (Black)",
+      "currentPrice": "13,490",
+      "originalPrice": "₹30,990",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MI 108 cm (43 inches) 5A Series Full HD Smart Android LED TV L43M7-EAIN (Black)",
+      "currentPrice": "21,499",
+      "originalPrice": "₹35,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Redmi 108 cm (43 inches) 4K Ultra HD Android Smart LED TV X43 | L43R7-7AIN (Black)",
+      "currentPrice": "21,999",
+      "originalPrice": "₹42,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "VW 80 cm(32 inches) Linux Series Frameless HD Ready Smart LED TV VW32C2 (Black)",
+      "currentPrice": "7,499",
+      "originalPrice": "₹16,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UR7500PSC (Dark Iron Gray)",
+      "currentPrice": "29,990",
+      "originalPrice": "₹49,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "VW 109 cm (43 inches) Linux Series Frameless Full HD Smart LED TV VW43S1 (Black)",
+      "currentPrice": "13,499",
+      "originalPrice": "₹25,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "read ECONNRESET",
+      "name": "Error",
+      "stack": "Error: read ECONNRESET\n    at Function.AxiosError.from (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:3016:25)\n    at RedirectableRequest.emit (node:events:527:28)\n    at ClientRequest.eventHandlers.<computed> (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\follow-redirects\\index.js:14:24)\n    at ClientRequest.emit (node:events:527:28)\n    at TLSSocket.socketErrorListener (node:_http_client:454:9)\n    at TLSSocket.emit (node:events:527:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Redmi-inches-Ready-L32M6-RA-Android/dp/B09F9YQQ7B/ref=sr_1_17?crid=1CTT4C401R16W&keywords=tv&qid=1698484297&sprefix=tv%2Caps%2C254&sr=8-17"
+      },
+      "code": "ECONNRESET",
+      "status": null
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "TCL 80.04 cm (32 inches) Bezel-Less S Series HD Ready Smart Android LED TV 32S5400A (Black)",
+      "currentPrice": "9,990",
+      "originalPrice": "₹20,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Acer 127 cm (50 inches) Advanced I Series 4K Ultra HD Smart LED Google TV AR50GR2851UDFL (Black)",
+      "currentPrice": "25,999",
+      "originalPrice": "₹49,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Xiaomi 108 cm (43 inches) X Series 4K Ultra HD Smart Android LED TV â€ŽL43M7-A2IN (Black)",
+      "currentPrice": "24,499",
+      "originalPrice": "₹42,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart LED Google TV KD-43X64L (Black)",
+      "currentPrice": "40,990",
+      "originalPrice": "₹59,900",
+      "rating": "4.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Kodak 108 cm (43 inches) 9XPRO Series Full HD Certified Android LED TV 439X5081 (Black)",
+      "currentPrice": "15,999",
+      "originalPrice": "₹28,499",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "TCL 138.7 cm (55 inches) Bezel-Less Series 4K Ultra HD Smart LED Google TV 55P635 (Black)",
+      "currentPrice": "30,990",
+      "originalPrice": "₹77,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
+      "currentPrice": "13,990",
+      "originalPrice": "₹19,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Samsung 108 cm (43 inches) Full HD Smart LED TV UA43T5450AKXXL (Black)",
+      "currentPrice": "24,990",
+      "originalPrice": "₹37,900",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Kodak 126 cm (50 inches) CAPRO Series 4K Ultra HD LED Google TV 50CAPROGT5012 (Black)",
+      "currentPrice": "25,999",
+      "originalPrice": "₹41,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "TCL 80.04 cm (32 inches) Bezel-Less S Series FHD Smart Android LED TV 32S5403AF (Black)",
+      "currentPrice": "10,490",
+      "originalPrice": "₹20,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74L (Black)",
+      "currentPrice": "81,990",
+      "originalPrice": "₹1,39,900",
+      "rating": "4.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Kodak 60 cm (24 inches) Special Edition Series HD Ready Smart LED TV 24SE5002 (Black)",
+      "currentPrice": "6,999",
+      "originalPrice": "₹9,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Samsung-inches-Crystal-iSmart-UA65CUE60AKLXL/dp/B0C1GX9FWW/ref=sr_1_30?crid=1CTT4C401R16W&keywords=tv&qid=1698484297&sprefix=tv%2Caps%2C254&sr=8-30"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Kodak 80 cm (32 inches) Special Edition Series HD Ready Smart LED TV 32SE5001BL (Black)",
+      "currentPrice": "8,499",
+      "originalPrice": "₹14,999",
+      "rating": "4.5",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/LG-inches-Ready-Smart-32LM563BPTC/dp/B08DPLCM6T/ref=sr_1_32?crid=1CTT4C401R16W&keywords=tv&qid=1698484297&sprefix=tv%2Caps%2C254&sr=8-32"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Campus Mens Crysta ProRunning Shoes",
+      "currentPrice": "749",
+      "originalPrice": "₹1,299",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ASIAN Mens Hattrick-27 Loafer",
+      "currentPrice": "709",
+      "originalPrice": "₹1,499",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Campus Men's North Plus Running Shoes",
+      "currentPrice": "1,119",
+      "originalPrice": "₹1,899",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Campus Men's AIM Plus Walking Shoes",
+      "currentPrice": "640",
+      "originalPrice": "₹999",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, JBL Signature Sound, Vibrant Color Options with IPX7 Waterproof & AUX (Blue)",
+      "currentPrice": "1,799",
+      "originalPrice": "₹2,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 650 10W Bluetooth Speaker with Upto 7 Hours Playback, IPX5 and Integrated Controls (Black)",
+      "currentPrice": "1,499",
+      "originalPrice": "₹4,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Zebronics ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker With Supporting Carry Handle, USB, SD Card, AUX, FM & Call Function. (Black)",
+      "currentPrice": "499",
+      "originalPrice": "₹999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Blue)",
+      "currentPrice": "2,799",
+      "originalPrice": "₹4,499",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Zeb-Astra 20 Wireless BT v5.0 Portable Speaker with 10W RMS Output, TWS, 10H Backup Approx, Built in Rechargeable Battery FM Radio, AUX, mSD, USB, Call Function and Dual 52mm Drivers Multi",
+      "currentPrice": "899",
+      "originalPrice": "₹2,299",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Tribit[Upgraded Version XSound Go 16W 5.0 Bluetooth Speaker with Loud Sound & Rich Bass, 24H Playtime, IPX7 Waterproof, Wireless Stereo Pairing, Type-C, Portable Speaker for Home/Outdoor/Travel Black",
+      "currentPrice": "2,599",
+      "originalPrice": "₹3,499",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Infinity - JBL Clubz Mini, Wireless Ultra Portable Mini Speaker with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support for Mobiles (Black)",
+      "currentPrice": "898",
+      "originalPrice": "₹1,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, Signature Sound, Vibrant Color Options with IPX7 Waterproof & AUX (Black)",
+      "currentPrice": "1,799",
+      "originalPrice": "₹2,999",
+      "rating": "4.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 135 Portable Wireless Speaker with 5W RMS Immersive Sound,IPX4 Water Resistance, True Wireless Feature, Up to 11H Total Playtime, Multi-Connectivity Modes With Type C Charging(Active Black)",
+      "currentPrice": "799",
+      "originalPrice": "₹1,990",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 620 Bluetooth Speaker with 12W RMS Stereo Sound, 10HRS Playtime, TWS Feature, IPX4, Multi-Compatibility Mode(Black)",
+      "currentPrice": "1,799",
+      "originalPrice": "₹3,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Bose SoundLink Micro Bluetooth Speaker: Small Portable Waterproof Speaker with Microphone, Stone Blue",
+      "currentPrice": "8,696",
+      "originalPrice": "₹10,900",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Newly Launched Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes and Type-C Charging(Electric Blue- Thor Edition)",
+      "currentPrice": "1,499",
+      "originalPrice": "₹3,490",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 180 5W Bluetooth Speaker with Upto 10 Hours Playback, 1.75\" Driver, IPX7 & TWS Feature(Black)",
+      "currentPrice": "999",
+      "originalPrice": "₹2,490",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Zeb-Action Wireless 10W Portable Speaker, Supporting Bluetooth v5.1, TWS, RGB Lights, Fabric Finish, AUX/USB/FM/mSD (Black)",
+      "currentPrice": "599",
+      "originalPrice": "₹1,699",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/AmazonBasics-Bluetooth-Playtime-Technology-Connectivity/dp/B0BLNKMBDS/ref=sr_1_15?crid=3N7DM90DM0OKD&keywords=speaker&qid=1698484379&sprefix=speake%2Caps%2C231&sr=8-15"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes and Type-C Charging(Raging Black)",
+      "currentPrice": "1,399",
+      "originalPrice": "₹3,490",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "pTron Newly Launched Fusion Hook 6W Mini Bluetooth Speaker, 6 Hrs Playtime, 52mm Dynamic Driver, Bluetooth 5.0 Connectivity, Aux/TF Card/USB Playback, TWS Pairing & Integrated Controls (Black)",
+      "currentPrice": "398",
+      "originalPrice": "₹1,799",
+      "rating": "3.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Blue, One Size",
+      "currentPrice": "699",
+      "originalPrice": "₹1,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Black)",
+      "currentPrice": "2,799",
+      "originalPrice": "₹3,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes and Type-C Charging(Groovy Grey)",
+      "currentPrice": "1,399",
+      "originalPrice": "₹3,490",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "pTron Newly Launched Fusion Go 10W Portable Bluetooth Speaker with 6Hrs Playtime, Immersive Sound, Auto-TWS Function, Supports BT/USB/SD Card/AUX Playback & Lightweight (Black)",
+      "currentPrice": "498",
+      "originalPrice": "₹1,799",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Black",
+      "currentPrice": "698",
+      "originalPrice": "₹1,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Portronics-SoundDrum-Portable-Bluetooth-Inbuilt-FM/dp/B097D69GJ1/ref=sr_1_23?crid=3N7DM90DM0OKD&keywords=speaker&qid=1698484407&sprefix=speake%2Caps%2C231&sr=8-23"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "KRISONS Cylender 4” Double Woofer 40W Multi-Media Bluetooth Party Speaker with Wired Mic for Karaoke, Digital Display,RGB Lights, USB, SD Card, FM Radio,Auto TWS Function & Remote",
+      "currentPrice": "1,299",
+      "originalPrice": "₹4,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Aavante Bar 610 Bluetooth Soundbar with 25W RMS Signature Sound, 2.0 Channel with Dual Passive Radiators, Upto 7 Hours Playback & Multi Connectivity(Charcoal Black)",
+      "currentPrice": "1,999",
+      "originalPrice": "₹5,990",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "INSTAPLAY Insta Duo 2.0 Multimedia Speaker System Powerful Stereo Sound with Aux Connectivity,USB Powered and Volume Control Supports Laptop/PC/Projector/Tablet/Cellphone",
+      "currentPrice": "279",
+      "originalPrice": "₹799",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Marshall Acton II 60 Watt Wireless Bluetooth Speaker (Black)",
+      "currentPrice": "18,998",
+      "originalPrice": "₹29,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sony Srs-Xb13 Wireless Extra Bass Portable Compact Bluetooth Speaker with 16 Hours Battery Life, Type-C, Ip67 Waterproof, Dustproof, with Mic, Loud Audio for Phone Calls/Work from Home (Black), Small",
+      "currentPrice": "3,499",
+      "originalPrice": "₹4,990",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JBL Flip 5 Wireless Portable Bluetooth Speaker, Signature Sound with Powerful Bass Radiator, Vibrant Colors with Rugged Design, PartyBoost, IPX7 Waterproof & Type C (Without Mic, Black)",
+      "currentPrice": "7,499",
+      "originalPrice": "₹10,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "pTron Newly Launched Musicbot Partybox Bluetooth Speaker with 10W Punchy Sound, 8 Hrs Playtime, TWS Feature, 6 RGB Light Patterns, Bluetooth 5.0/TF Card/USB Playback & Type-C Fast Charging (Black)",
+      "currentPrice": "599",
+      "originalPrice": "₹1,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 180 5W Bluetooth Speaker with Upto 10 Hours Playback, 1.75\" Driver, IPX7 & TWS Feature(Blue)",
+      "currentPrice": "1,099",
+      "originalPrice": "₹2,490",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Bose-SoundLink-Bluetooth-Waterproof-Travel-Black/dp/B099TJGJ91/ref=sr_1_32?crid=3N7DM90DM0OKD&keywords=speaker&qid=1698484407&sprefix=speake%2Caps%2C231&sr=8-32"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "KRISONS Cylender 4” Double Woofer 40W Multi-Media Bluetooth Party Speaker with Wired Mic for Karaoke, Digital Display,RGB Lights, USB, SD Card, FM Radio,Auto TWS Function & Remote",
+      "currentPrice": "1,299",
+      "originalPrice": "₹4,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Sony SRS-XB100 Wireless Bluetooth Portable Lightweight Super- Compact Travel Speaker, Extra-Durable IP67 Waterproof & Dustproof, 16 Hrs Batt, Versatile Strap, Extra Bass and Hands-Free Calling-Orange",
+      "currentPrice": "4,486",
+      "originalPrice": "₹4,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Zebronics ZEB-VITA Wireless Bluetooth 10W Portable Bar Speaker With Supporting USB, SD Card, AUX, FM, TWS & Call Function (Black)",
+      "currentPrice": "699",
+      "originalPrice": "₹1,199",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "INSTAPLAY Insta Duo 2.0 Multimedia Speaker System Powerful Stereo Sound with Aux Connectivity,USB Powered and Volume Control Supports Laptop/PC/Projector/Tablet/Cellphone",
+      "currentPrice": "279",
+      "originalPrice": "₹799",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Zebronics ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker With Supporting Carry Handle, USB, SD Card, AUX, FM & Call Function. (Green)",
+      "currentPrice": "449",
+      "originalPrice": "₹999",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JB SUPER Mini Bluetooth Speaker WS 887 with FM Radio, USB Pen Drive Slot and Memory Card Slot, AUX Input Mode Speaker",
+      "currentPrice": "499",
+      "originalPrice": "₹1,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Newly Launched Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes and Type-C Charging(Assassin Red-Deadpool Edition)",
+      "currentPrice": "1,499",
+      "originalPrice": "₹3,490",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Green",
+      "currentPrice": "699",
+      "originalPrice": "₹1,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Portronics SoundDrum P 20W Portable Bluetooth Speaker with 6-7 hrs Playback Time, Handsfree Calling, USB Slot, Aux-in Port, Type C Charging (Green)",
+      "currentPrice": "1,899",
+      "originalPrice": "₹3,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 180 5W Bluetooth Speaker with Upto 10 Hours Playback, 1.75\" Driver, IPX7 & TWS Feature(Blue)",
+      "currentPrice": "1,099",
+      "originalPrice": "₹2,490",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "GIZMORE ST5000 PRO 50W Bluetooth Tower Speaker | Digital LED Display Wooden Cabinet | Volume & Bass Control | Karaoke and Party Speaker with Multiple Connectivity And Wireless MIC (Black)",
+      "currentPrice": "3,499",
+      "originalPrice": "₹5,499",
+      "rating": "3.3",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "GOVO GoSurround 300 | 25W Bluetooth Sound bar, 2000 mAh Battery, 2.0 Channel with 52mm Drivers, Multicolor LED Lights with TWS, AUX, Bluetooth and USB (Platinum Black)",
+      "currentPrice": "1,299",
+      "originalPrice": "₹5,499",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Marshall Acton II 60 Watt Wireless Bluetooth Speaker (Black)",
+      "currentPrice": "18,998",
+      "originalPrice": "₹29,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Amazon Basics Bluetooth Speaker 5.0 Soundbar with 16W RMS, 2000mAh Battery, Upto 19 Hrs Playtime Aux/USB Port (Grey)",
+      "currentPrice": "899",
+      "originalPrice": "₹2,199",
+      "rating": "3.8",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 650 10W Bluetooth Speaker with Upto 7 Hours Playback, IPX5 and Integrated Controls (Blue)",
+      "currentPrice": "1,499",
+      "originalPrice": "₹4,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Krisons 4\" SilverStar Double Woofer 40W Multi-Media Bluetooth Party Speaker with Wired Mic for Karaoke,Digital Display, RGB Lights, USB, SD Card and FM Radio",
+      "currentPrice": "1,499",
+      "originalPrice": "₹4,999",
+      "rating": "3.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Bose SoundLink Micro, Portable Outdoor Speaker, (Wireless Bluetooth Connectivity), Black",
+      "currentPrice": "8,696",
+      "originalPrice": "₹10,900",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Marshall Acton III 60 W Bluetooth Powered Home Speaker, Black",
+      "currentPrice": "31,999",
+      "originalPrice": "",
+      "rating": "4.7",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Stone-650-Wireless-Bluetooth-Speaker/dp/B07NC12T2R/ref=sr_1_51?crid=3N7DM90DM0OKD&keywords=speaker&qid=1698484474&sprefix=speake%2Caps%2C231&sr=8-51"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Bose SoundLink Flex Bluetooth Portable Speaker, Wireless Waterproof Speaker for Outdoor Travel-Black",
+      "currentPrice": "11,896",
+      "originalPrice": "₹15,900",
+      "rating": "4.6",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "rejected",
+    "reason": {
+      "message": "Request failed with status code 503",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 503\n    at settle (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:1913:12)\n    at Unzip.handleStreamEnd (D:\\A Learning\\Next js\\test-puppeter\\node_modules\\axios\\dist\\node\\axios.cjs:2995:11)\n    at Unzip.emit (node:events:539:35)\n    at endReadableNT (node:internal/streams/readable:1345:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": ["xhr", "http"],
+        "transformRequest": [null],
+        "transformResponse": [null],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/1.5.1",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://www.amazon.in/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR/ref=sr_1_53?crid=3N7DM90DM0OKD&keywords=speaker&qid=1698484474&sprefix=speake%2Caps%2C231&sr=8-53"
+      },
+      "code": "ERR_BAD_RESPONSE",
+      "status": 503
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "ZEBRONICS Juke BAR 1500 20W Output, Wireless Portable Mini soundbar, Built-in Rechargeable Battery, Bluetooth 5.0, mSD, AUX, LED Indicator and Glossy Finish",
+      "currentPrice": "1,299",
+      "originalPrice": "₹2,299",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Marshall Stockwell II 20 Watt Wireless Bluetooth Portable Speaker (Black and Brass) (1005544)",
+      "currentPrice": "19,999",
+      "originalPrice": "₹24,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "pTron Fusion Party v2 40W Karaoke Bluetooth Party Speaker with 3M Wired Microphone, Dual Drivers, RGB Lights, USB/SD Card Playback, Auto TWS Function & Remote Control (Black)",
+      "currentPrice": "1,499",
+      "originalPrice": "₹4,899",
+      "rating": "3.9",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "MI Portable Wireless Bluetooth Speaker (Black)|16W Hi-Quality Speaker with Mic|Upto 13hrs Playback Time|IPX7 Waterproof & Type C|Wireless Stereo Pairing|Speaker for Home, Outdoor & Travel Purpose",
+      "currentPrice": "1,996",
+      "originalPrice": "₹3,499",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 135 Portable Wireless Speaker with 5W RMS Immersive Sound,IPX4 Water Resistance,True Wireless Feature, Up to 11H Total Playtime, Multi-Connectivity Modes with Type C Charging(Space Grey)",
+      "currentPrice": "899",
+      "originalPrice": "₹1,990",
+      "rating": "4.0",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Artis BT12 Classic Retro Wireless BT Speaker with FM/USB/AUX in & Hands Free Calling (5W RMS Output)",
+      "currentPrice": "1,299",
+      "originalPrice": "₹2,599",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "pTron Newly Launched Fusion Hook 6W Mini Bluetooth Speaker, 6 Hrs Playtime, 52mm Dynamic Driver, Bluetooth 5.0 Connectivity, Aux/TF Card/USB Playback, TWS Pairing & Integrated Controls (Blue)",
+      "currentPrice": "398",
+      "originalPrice": "₹1,799",
+      "rating": "3.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "boAt Stone 1200 14W Bluetooth Speaker with Upto 9 Hours Battery, RGB LEDs, IPX7 and TWS Feature(Black)",
+      "currentPrice": "3,299",
+      "originalPrice": "₹6,990",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Portronics SoundDrum P 20W Portable Bluetooth Speaker with 6-7 hrs Playback Time, Handsfree Calling, USB Slot, Aux-in Port, Type C Charging (Green)",
+      "currentPrice": "1,899",
+      "originalPrice": "₹3,999",
+      "rating": "4.2",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Green",
+      "currentPrice": "699",
+      "originalPrice": "₹1,999",
+      "rating": "4.1",
+      "outOfStock": false
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "productTitle": "JB SUPER Mini Bluetooth Speaker WS 887 with FM Radio, USB Pen Drive Slot and Memory Card Slot, AUX Input Mode Speaker",
+      "currentPrice": "499",
+      "originalPrice": "₹1,999",
+      "rating": "4.4",
+      "outOfStock": false
+    }
+  }
+]
